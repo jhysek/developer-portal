@@ -142,6 +142,15 @@ const Showcases = [
     tags: ["featured", "metadata"],
   },
   {
+    title: "Crypto Heroez",
+    description:
+      "Cardano NFT pixelart collectibles that feature heroes of the cryptospace. NFTs could be used in a game that's in progress!",
+    preview: require("./showcase/cryptoheroez.png"),
+    website: "https://cryptoheroez.io",
+    source: null,
+    tags: ["nft", "games"],
+  },
+  {
     title: "NFT Maker",
     description:
       "Create your own NFT by uploading an image and paying some ada.",
